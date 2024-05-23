@@ -39,5 +39,7 @@ This project demonstrates how to build a UI screen in SwiftUI where an API call 
 
 ## Project Preview
 
-![](/Screenshots/Simulator Screenshot - iPhone 15 Pro Max - 2024-05-23 at 10.19.42.png?raw=true)
+![](/Screenshots/AppPreview1.png?raw=true) ![](/Screenshots/AppPreview2.png?raw=true)
+![](/Screenshots/AppPreview3.png?raw=true) ![](/Screenshots/AppPreview4.png?raw=true)
+
 
