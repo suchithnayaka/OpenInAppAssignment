@@ -35,3 +35,9 @@ This project demonstrates how to build a UI screen in SwiftUI where an API call 
 - **Endpoint**: `https://api.inopenapp.com/api/v1/dashboardNew`
 - **Method**: GET
 - **Response Format**: JSON
+
+
+## Project Preview
+
+![](/Screenshots/Simulator Screenshot - iPhone 15 Pro Max - 2024-05-23 at 10.19.42.png?raw=true)
+
