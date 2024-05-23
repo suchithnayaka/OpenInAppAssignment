@@ -42,4 +42,6 @@ This project demonstrates how to build a UI screen in SwiftUI where an API call 
 ![](/Screenshots/AppPreview1.png?raw=true) ![](/Screenshots/AppPreview2.png?raw=true)
 ![](/Screenshots/AppPreview3.png?raw=true) ![](/Screenshots/AppPreview4.png?raw=true)
 
+![](/Screenshots/link.mov?raw=true)
+
 
