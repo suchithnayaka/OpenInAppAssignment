@@ -39,9 +39,9 @@ This project demonstrates how to build a UI screen in SwiftUI where an API call 
 
 ## Project Preview
 
-![](/Screenshots/AppPreview1.png?raw=true) ![](/Screenshots/AppPreview2.png?raw=true)
-![](/Screenshots/AppPreview3.png?raw=true) ![](/Screenshots/AppPreview4.png?raw=true)
-
-![](/Screenshots/link.mov?raw=true)
+<img src="/Screenshots/AppPreview1.png" align="left" width="200" height="432"> <img src="/Screenshots/AppPreview2.png" align="left" width="200" height="432">
+<img src="/Screenshots/AppPreview3.png" align="left" width="200" height="432"> <img src="/Screenshots/AppPreview4.png" align="left" width="200" height="432">
+<br></br>
+<img src="/Screenshots/link.gif" align="bottom" width="200" height="432"> <img src="/Screenshots/copy.gif" align="bottom" width="200" height="432">
 
 
